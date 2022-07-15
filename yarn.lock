@@ -7977,10 +7977,10 @@ svelte-observable@^0.4.0:
   resolved "https://registry.yarnpkg.com/svelte-observable/-/svelte-observable-0.4.0.tgz#74756e42fa3516c154d53f4244fa9cf691854224"
   integrity sha512-e8CfnkUfOZ/nAIpdFi+g63lS5oU+8J+KKhwkHpO0/reADeTBbIiVbcCqVrLsETp8+i+4ydQoawNCwMP/C8oMyA==
 
-svelte@^3.23.2:
-  version "3.23.2"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.23.2.tgz#f3e500384261a2e77b29681ee744c3c790fbcdc3"
-  integrity sha512-hE8GeTM83YVR4GY6/6PeDEcGct4JS5aCi+IYbCAa76oaPSfuF7L85DQYULQxlTK/KPWzw3L1GRGmC3oPG/PQoA==
+svelte@^3.49.0:
+  version "3.49.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.49.0.tgz#5baee3c672306de1070c3b7888fc2204e36a4029"
+  integrity sha512-+lmjic1pApJWDfPCpUUTc1m8azDqYCG1JN9YEngrx/hUyIcFJo6VZhj0A1Ai0wqoHcEIuQy+e9tk+4uDgdtsFA==
 
 symbol-observable@^1.0.2:
   version "1.2.0"
